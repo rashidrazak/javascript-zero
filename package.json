@@ -1,0 +1,22 @@
+{
+  "name": "javascript-zero",
+  "version": "1.0.0",
+  "description": "My JavaScript Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rashidrazak/javascript-zero.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Rashid Razak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rashidrazak/javascript-zero/issues"
+  },
+  "homepage": "https://github.com/rashidrazak/javascript-zero#readme"
+}
